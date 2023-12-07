@@ -31,4 +31,7 @@ This is an example of a image and what the featrue map would look like
  <img src="concert_venue_empty.jpg" alt="" style="display: block; width: 50%; height:50%; object-fit: cover;" /> 
 **FEATRUE MAP** <img src="featrue_map.png" alt="" style="display: block; width: 50%; height:50%; object-fit: cover;" />
 
- 
+ so detecting certain features that repeat the program will learn how to group the photos
+
+the network learns to activate specific filters in response to certain features present in the input images. If certain features are indicative of whether a concert venue is filled or empty in your case, the network may learn to recognize and leverage these features for classification.
+
