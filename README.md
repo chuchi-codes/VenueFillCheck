@@ -23,11 +23,12 @@ We can start to create a program to do this task by
 3. then transform an image to be used in model
 4. Look at feature map with random layer applied to photos 
 
+
 This is an example of a image and what the featrue map would look like 
 
 **REGULAR IMAGE**
-<img src="concert_venue_empty.jpg" alt="" style="display: block; width: 50%; height:50%; object-fit: cover;" />
+ <img src="concert_venue_empty.jpg" alt="" style="display: block; width: 50%; height:50%; object-fit: cover;" />
 **FEATRUE MAP**
-<img src="featrue_map.png" alt="" style="display: block; width: 50%; height:50%; object-fit: cover;" />
+ <img src="featrue_map.png" alt="" style="display: block; width: 50%; height:50%; object-fit: cover;" />
 
  
