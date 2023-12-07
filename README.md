@@ -13,13 +13,20 @@ Understanding whether a concert hall is filled or not through photos can be bene
 4. Logistics and Resource Allocation:
  -Staffing and Resource Planning: If certain types of events consistently attract larger crowds, organizers can adjust staffing levels, security measures, and other resources accordingly.
 
-1. Item 1
-   - Subitem 1.1
-   - Subitem 1.2
-2. Item 2
-   - Subitem 2.1
-   - Subitem 2.2
-3. Item 3
+I've listed 4 here but the problems it could solve are not limited to only theses that i have just mentioned but these would be the major areas that could be benefited immediately.
+
+We can start to create a program to do this task by 
+1.  First gathering a photo deck of venues that are filled and venues that are empty 
+    This is here is mydata deck 
+[Google slides 50 pictures](https://docs.google.com/presentation/u/0/d/1trhebZ4PCf9QhRP3bUlqgMEetYf8O9wwuYlEbyyFDxs/edit)
+2. Then we define alexnet model
+3. then transform an image to be used in model
+4. Look at feature map with random layer applied to photos 
+
+This is an example of a image and what the featrue map would look like 
+**REGULAR IMAGE**
+
+**FEATRUE MAP**
 
 
  
